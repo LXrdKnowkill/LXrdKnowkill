@@ -9,7 +9,7 @@
 <h2 align="center"> 🦊 ~ 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶 ~ 🦊 </h2>
 <img src="https://i.kym-cdn.com/photos/images/original/001/435/579/9ff.gif" align="right">
 <li>
-<b>Name:</b> Lukas</li>
+<b>Name:</b> Knowkill</li>
 
 <li>
 <b>Loves:</b> anime, osu, rythm games
