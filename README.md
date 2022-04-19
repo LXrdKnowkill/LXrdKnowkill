@@ -47,7 +47,7 @@ I'm good at detecting flaws and vulnerabilities in websites and programs that ha
 <div>
 <h2 align="center">💖 ~ 𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓵𝓮𝓻𝓮𝓶 ~ 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://i.imgur.com/VAkEz8u.gif">
 </div>
 <hr>
 </div>
