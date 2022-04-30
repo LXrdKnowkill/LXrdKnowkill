@@ -53,4 +53,4 @@ I'm good at detecting flaws and vulnerabilities in websites and programs that ha
 </div>
 </div>
 </body>
-           Amigos e Amiguinhas se vocs quiserem dar uma olhada na minha pagina esta ai <a href="https://lxrdknowkill.github.io/MazumiYuki/" target="_blank">aqui!</a>
+           𝓐𝓶𝓲𝓰𝓸𝓼 𝓮 𝓐𝓶𝓲𝓰𝓾𝓲𝓷𝓱𝓪𝓼 𝓼𝓮 𝓿𝓸𝓬𝓼 𝓺𝓾𝓲𝓼𝓮𝓻𝓮𝓶 𝓭𝓪𝓻 𝓾𝓶𝓪 𝓸𝓵𝓱𝓪𝓭𝓪 𝓷𝓪 𝓶𝓲𝓷𝓱𝓪 𝓹𝓪𝓰𝓲𝓷𝓪 𝓮𝓼𝓽𝓪  <a href="https://lxrdknowkill.github.io/MazumiYuki/" target="_blank">𝓐𝓺𝓾𝓲</a>
