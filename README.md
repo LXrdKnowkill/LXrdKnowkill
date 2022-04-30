@@ -9,7 +9,7 @@
 <h2 align="center"> 🦊 ~ 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶 ~ 🦊 </h2>
 <img src="https://i.kym-cdn.com/photos/images/original/001/435/579/9ff.gif" align="right">
 <li>
-<b>Nome:</b> Knowkill</li>
+<b>Nome:</b> Lukas</li>
 
 <li>
 <b>Gostos:</b> anime, osu, rythm games
@@ -21,7 +21,7 @@
 <b>Hobby:</b> Pensamentos Tech, Design Grafico, Desenvolvimento Web (Ao final da pagina tem meu SITE de uma olhada)
 </li>
 <li>
-<b>Trabalhando @:</b> Construção de AntiCheat | Pentester | Desenvolvedor de Cheats e Venda de programas
+<b>Trabalhando :</b> Construção de AntiCheat | Pentester | Desenvolvedor de Cheats e Venda de programas
 </li>
 <br><br><br>
 </div>
