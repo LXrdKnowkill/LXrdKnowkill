@@ -41,7 +41,10 @@ Sou bom em detectar falhas e vulnerabilidades em sites e programas que possuem a
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓽𝓸𝓼 ~ 📝</h2>
 
 <br>
-<p align="center">ate o momento não tem disponibilidade >~< 
+<p align="center"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="center">
+ <br>                              
+ LXrd_KnowKill#6095
+ <br>
 </div>
 <br>
 <div>
