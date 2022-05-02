@@ -9,7 +9,7 @@
 <h2 align="center"> 🦊 ~ 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶 ~ 🦊 </h2>
 <img src="https://i.kym-cdn.com/photos/images/original/001/435/579/9ff.gif" align="right">
 <li>
-<b>Nome:</b> Yuki/Luks</li>
+<b>Nome:</b> Yuki</li>
 
 <li>
 <b>Gostos:</b> anime, osu, rythm games
