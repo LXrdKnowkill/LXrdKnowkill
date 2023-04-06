@@ -66,7 +66,7 @@ Sou bom em detectar falhas e vulnerabilidades em sites e programas que possuem a
            
            
            
-           <p align="center" >  
+  <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=LXrdKnowkill&&show_icons=true&theme=radical"/>
   </a>
