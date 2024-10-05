@@ -18,10 +18,10 @@
 <b>Genero:</b> he/Male
 </li>
 <li>
-<b>Hobby:</b> Pensamentos Tech, Design Grafico, Desenvolvimento Web (Ao final da pagina tem meu SITE de uma olhada)
+<b>Hobby:</b> Programar Cheats & Banco de dados e entre outros, Design Grafico, Desenvolvimento Web (Ao final da pagina tem meu SITE de uma olhada)
 </li>
 <li>
-<b>Trabalhando :</b> Construção de AntiCheat | Pentester | Desenvolvedor de Cheats e Venda de programas
+<b>Trabalhando :</b> | Pentester | Desenvolvedor de Cheats em c++ | Arquiteto e Urbanista
 </li>
 <br><br><br>
 </div>
