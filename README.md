@@ -1,73 +1,58 @@
-<body>
-<h1 align="center">~ 💖 𝓑𝓮𝓶 𝓥𝓲𝓷𝓭𝓸𝓼 𝓟𝓮𝓼𝓼𝓸𝓪𝓵 💖 ~</h1>
-<br>
-<div align="center">
-<img src="https://imgur.com/pnIFYHu.gif">
-</div>
-<br>
-<div>
-<h2 align="center"> 🦊 ~ 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶 ~ 🦊 </h2>
-<img src="https://i.kym-cdn.com/photos/images/original/001/435/579/9ff.gif" align="right">
-<li>
-<b>Nome:</b> Yuki</li>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=120&section=header"/>
 
-<li>
-<b>Gostos:</b> anime, osu, rythm games
-</li>
-<li>
-<b>Genero:</b> he/Male
-</li>
-<li>
-<b>Hobby:</b> Programar Cheats & Banco de dados e entre outros, Design Grafico, Desenvolvimento Web (Ao final da pagina tem meu SITE de uma olhada)
-</li>
-<li>
-<b>Trabalhando :</b> | Pentester | Desenvolvedor de Cheats em c++ | Arquiteto e Urbanista
-</li>
-<br><br><br>
-</div>
-<div>
-<h2 align="left">            ~ 📇 𝓒𝓸𝓷𝓱𝓮𝓬𝓲𝓶𝓮𝓷𝓽𝓸𝓼 📇 ~</h2>
-<p>
-<img src="https://c.tenor.com/g6gB7IfcS6EAAAAC/padoru-pet.gif" align="right">
-</div>
-<div>
-<br>
 <div align="center">
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-Sou bom em detectar falhas e vulnerabilidades em sites e programas que possuem anti cheats, sempre que tem algum problema acabo denunciando
-</p>
-<br>
-<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓽𝓸𝓼 ~ 📝</h2>
+  <img src="https://i.imgur.com/VAkEz8u.gif" width="400">
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Yuki+👋;Sou+desenvolvedor,+designer+e+pentester;Gosto+de+animes,+osu!+e+programar;Seja+Bem-Vindo(a)!+💖)](https://git.io/typing-svg)
 
 <br>
-<p align="center"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="center">
-  <br>
- LXrd_KnowKill#6095
-  <br>
-  <br>
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
-  <br>
- Esta no meu site no final do Repositório
- <br>
-</div>
-<br>
-<div>
-<h2 align="center">💖 ~ 𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓵𝓮𝓻𝓮𝓶 ~ 💖</h2>
+
 <div align="center">
-<img src="https://i.imgur.com/VAkEz8u.gif">
+  <h2 align="center"> 🦊 ~ Sobre Mim ~ 🦊 </h2>
+  <p>Entusiasta de tecnologia com paixão por <strong>desenvolvimento de cheats em C++</strong>, <strong>segurança da informação (Pentest)</strong> e <strong>desenvolvimento web</strong>. Nas horas vagas, gosto de mergulhar no mundo dos animes, jogar rhythm games como osu! e criar designs gráficos. Atualmente trabalho como Arquiteto e Urbanista, Pentester e Desenvolvedor.</p>
 </div>
-<hr>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LXrdKnowkill&show_icons=true&theme=dracula&text_color=f8f8f2&title_color=ff79c6&icon_color=ff79c6&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR" alt="Estatísticas do GitHub de Yuki"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXrdKnowkill&layout=compact&theme=dracula&text_color=f8f8f2&title_color=ff79c6&hide_border=true&locale=pt-BR" alt="Linguagens Mais Usadas por Yuki"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LXrdKnowkill&custom_title=Histórico%20de%20Contribuições&hide_border=true&theme=dracula&point=ff79c6&line=ff79c6&text_color=f8f8f2&title_color=ff79c6&bg_color=282a36&area=true&area_color=ff79c6" alt="Gráfico de Atividade de Yuki"/>
 </div>
-</div>
-</body>
-           𝓐𝓶𝓲𝓰𝓸𝓼 𝓮 𝓐𝓶𝓲𝓰𝓾𝓲𝓷𝓱𝓪𝓼 𝓼𝓮 𝓿𝓸𝓬𝓼 𝓺𝓾𝓲𝓼𝓮𝓻𝓮𝓶 𝓭𝓪𝓻 𝓾𝓶𝓪 𝓸𝓵𝓱𝓪𝓭𝓪 𝓷𝓪 𝓶𝓲𝓷𝓱𝓪 𝓹𝓪𝓰𝓲𝓷𝓪 𝓮𝓼𝓽𝓪  <a href="https://lxrdknowkill.github.io/LXrdKnowkill/" target="_blank">𝓐𝓺𝓾𝓲</a>
-           
-           
-           
-           
-  <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=LXrdKnowkill&&show_icons=true&theme=radical"/>
+
+<br>
+
+<div align="center">
+  <h2 align="center">📇 ~ Conhecimentos ~ 📇</h2>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,nodejs,git,photoshop,vscode&perline=9" />
   </a>
-  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2 align="center">📝 ~ Contatos ~ 📝</h2>
+  <p>Você pode me encontrar aqui:</p>
+  <a href="https://lxrdknowkill.github.io/LXrdKnowkill/" target="_blank">
+    <img src="https://img.shields.io/badge/-Meu%20Portfólio-ff79c6?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge">
+  </a>
+  <a href="[SEU_LINK_DO_INSTAGRAM]" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <p><b>LXrd_KnowKill#6095</b></p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2 align="center">💖 ~ Obrigado por ler ~ 💖</h2>
+  <img src="https://c.tenor.com/g6gB7IfcS6EAAAAC/padoru-pet.gif" width="150">
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=120&section=footer"/>
