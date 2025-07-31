@@ -40,7 +40,7 @@
   <a href="https://lxrdknowkill.github.io/LXrdKnowkill/" target="_blank">
     <img src="https://img.shields.io/badge/-Meu%20Portfólio-ff79c6?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge">
   </a>
-  <a href="[SEU_LINK_DO_INSTAGRAM]" target="_blank">
+  <a href="https://www.instagram.com/patrico.istar/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
   <br><br>
