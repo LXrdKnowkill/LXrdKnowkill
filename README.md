@@ -76,7 +76,7 @@
   <h2 align="center">📊 ~ GitHub Stats ~ 📊</h2>
   <img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=LXrdKnowkill&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub de Yuki"/>
   <br>
-  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=ThreatBiih&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens Mais Usadas por Yuki"/>
+  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=LXrdKnowkill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens Mais Usadas por Yuki"/>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LXrdKnowkill&custom_title=Histórico%20de%20Contribuições&hide_border=true&theme=dracula&point=ff79c6&line=ff79c6&text_color=f8f8f2&title_color=ff79c6&bg_color=282a36&area=true&area_color=ff79c6" alt="Gráfico de Atividade de Yuki"/>
 </div>
