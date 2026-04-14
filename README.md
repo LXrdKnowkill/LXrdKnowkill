@@ -5,7 +5,7 @@
 
   <br><br>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=30&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Yuki+%E2%9C%A8;Lukas+Machado+%E2%80%94+Independent+Researcher;Founder+of+@AkashaCorporation;Building+Helix+%E2%80%94+MLIR+Decompiler;Building+HexCore+%E2%80%94+Binary+Analysis+IDE;Where+Software+Meets+Hardware+%F0%9F%94%AC)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=30&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Yuki+%E2%9C%A8;%E2%80%94+Independent+Researcher;Founder+of+@AkashaCorporation;Building+Helix+%E2%80%94+MLIR+Decompiler;Building+HexCore+%E2%80%94+Binary+Analysis+IDE;Where+Software+Meets+Hardware+%F0%9F%94%AC)](https://git.io/typing-svg)
 </div>
 
 <br>
