@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img src="Deisgn%20Knowkill.png" width="100%" style="max-width:900px"/>
+  <img src="Deisgn-Knowkill.png" width="100%" style="max-width:900px"/>
 </div>
 
 <br>
